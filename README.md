@@ -1,5 +1,8 @@
 # vue-study
 
+## 描述
+主要是用来练习vue工程的项目，基于vue CLI 3.0
+
 ## Project setup
 ```
 npm install
